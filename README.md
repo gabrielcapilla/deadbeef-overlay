@@ -18,7 +18,10 @@ sudo pamac install deadbeef-plugin-lyricbar-git deadbeef-plugin-medialib-git dea
 ### Archivo config
 Añade el archivo **config** en `~/.config/deadbeef/`.
 
-#### Nota: Si experimenta errores en la instalación de plugins, quizás necesitará instalar los plugins por separado.
+---
+
+### Nota 
+Si experimenta errores en la instalación de plugins, quizás necesitará instalar [OpenSSL-1.0](https://aur.archlinux.org/packages/openssl-1.0).
 
 ---
 
