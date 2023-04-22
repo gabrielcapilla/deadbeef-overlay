@@ -10,6 +10,11 @@ Configuración rápida para DeaDBeeF. Incluye pestañas para ver la letra de las
 sudo pamac install deadbeef-git
 ```
 
+### Instalar dependencias necesarias para los plugins.
+```zsh
+sudo pamac install hwloc libxml++ gtkmm boost openpmix openmpi fftw
+```
+
 ### Instale los plugins necesarios para una mejor experiencia.
 ```zsh
 sudo pamac install deadbeef-plugin-lyricbar-git deadbeef-plugin-medialib-git deadbeef-plugin-waveform-gtk3-git deadbeef-plugin-musical-spectrum-gtk3-git
@@ -17,11 +22,6 @@ sudo pamac install deadbeef-plugin-lyricbar-git deadbeef-plugin-medialib-git dea
 
 ### Archivo config
 Añade el archivo **config** en `~/.config/deadbeef/`.
-
----
-
-### Nota 
-Si experimenta errores en la instalación de plugins, quizás necesitará instalar [OpenSSL-1.0](https://aur.archlinux.org/packages/openssl-1.0).
 
 ---
 
