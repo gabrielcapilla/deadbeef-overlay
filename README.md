@@ -1,5 +1,5 @@
 # deadbeef-gc
-Configuración rápida para DeaDBeeF. Incluye pestañas para ver la letra de las canciones. Necesita instalar plugins extra. Probado en Linux Manjaro KDE.
+Configuración rápida para DeaDBeeF. Incluye pestañas para ver la letra de las canciones. Necesita instalar plugins extra. Probado en Linux Manjaro KDE y Cachy OS KDE.
 
 ![preview-general](https://user-images.githubusercontent.com/104425110/230133189-fca4266e-f486-4872-a163-fbea3b12ab8d.png)
 ![preview-lyricbar](https://user-images.githubusercontent.com/104425110/230133264-002ecc30-efef-4039-8fc9-93990171c681.png)
@@ -21,7 +21,7 @@ sudo pamac install deadbeef-plugin-lyricbar-git deadbeef-plugin-medialib-git dea
 ```
 
 ### Archivo config
-Añade el archivo **config** en `~/.config/deadbeef/`.
+Inicie DeaDBeeF para que se creen los archivos en la carpeta `.config`, luego, añade el archivo **config** en `~/.config/deadbeef/`.
 
 ---
 
