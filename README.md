@@ -7,17 +7,17 @@ Configuración rápida para DeaDBeeF. Incluye pestañas para ver la letra de las
 
 ## Instale **DeaDBeeF**.
 ```zsh
-sudo pamac install deadbeef-git
+paru -S deadbeef
 ```
 
 ### Instalar dependencias necesarias para los plugins.
 ```zsh
-sudo pamac install hwloc libxml++ gtkmm boost openpmix openmpi fftw
+paru -S hwloc libxml++ gtkmm boost openpmix openmpi fftw
 ```
 
 ### Instale los plugins necesarios para una mejor experiencia.
 ```zsh
-sudo pamac install deadbeef-plugin-lyricbar-git deadbeef-plugin-medialib-git deadbeef-plugin-waveform-gtk3-git deadbeef-plugin-musical-spectrum-gtk3-git
+paru -S deadbeef-plugin-lyricbar-git deadbeef-plugin-medialib-git deadbeef-plugin-waveform-gtk3-git deadbeef-plugin-musical-spectrum-gtk3-git
 ```
 
 ### Archivo config
