@@ -1,4 +1,4 @@
-# deadbeef-gc
+# deadbeef-overlay
 Configuración rápida para DeaDBeeF. Incluye pestañas para ver la letra de las canciones. Necesita instalar plugins extra. Probado en Linux Manjaro KDE y Cachy OS KDE.
 
 ![preview-general](https://user-images.githubusercontent.com/104425110/230133189-fca4266e-f486-4872-a163-fbea3b12ab8d.png)
